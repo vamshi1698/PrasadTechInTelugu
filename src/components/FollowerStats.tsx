@@ -65,7 +65,7 @@ const FollowerStats: React.FC = () => {
           />
           <StatCard
             platform="X"
-            count="100K+"
+            count="356K+"
             icon={<XIcon />}
             color="bg-gradient-to-br from-gray-700 to-black"
           />
