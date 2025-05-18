@@ -44,7 +44,7 @@ const FollowerStats: React.FC = () => {
           </p>
         </div>
         
-        <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-4">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 gap-8">
           <StatCard
             platform="YouTube"
             count="4.79M+"
